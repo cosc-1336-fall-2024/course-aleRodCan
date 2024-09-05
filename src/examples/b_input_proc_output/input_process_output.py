@@ -1,7 +1,7 @@
-#output comments variables input calculations output constants
-def display_output():
-    print('hello')
+def get_number(num):
+    return num
 
-def test_config():
-    return True
+def multiply_numbers(num1, num2):
+    product = num1 *num2
+    return product
 
